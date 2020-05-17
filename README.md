@@ -1,5 +1,5 @@
 # OWTracker
  Overwatch Profile Tracker
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](/images/logo.png)
+![GitHub Logo](https://github.com/Fizzor96/OWTracker/blob/master/images/logo.PNG)
+Format: ![Alt Text](https://github.com/Fizzor96/OWTracker/blob/master/images/logo.PNG)
